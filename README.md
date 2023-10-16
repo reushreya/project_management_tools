@@ -67,7 +67,3 @@ The project management tool relies on the following external dependencies:
 - [SweetAlert](https://sweetalert.js.org/): JavaScript library for beautiful alert dialogs.
 
 These dependencies are loaded from CDNs in the HTML file.
-
-## Author
-
-This project was created by [Veeramanikandan].
